@@ -1,0 +1,43 @@
+.navbar-default
+{
+  background-color:white;
+  border-color:white;  
+}
+
+.navbar >.container .navbar-brand
+{
+	margin-left:0.1em;
+}
+
+.h1, .h2, .h3, h1, h2, h3, .navbar
+{
+	margin-top:0;
+	margin-bottom:0;
+}
+
+footer > p, form, header, #message
+{
+	margin-top:1em;
+}
+
+#refreshForLocalStorage
+{
+	text-align:center;
+	background-color:#e7e7e7;
+	padding:0.5em;
+	cursor: pointer;
+	cursor: hand;
+}
+
+#message, #refreshForLocalStorage
+{
+	display:none;
+}
+
+@media print
+{
+	body
+	{
+    	width: 100%;
+	}
+}

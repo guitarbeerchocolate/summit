@@ -1,0 +1,49 @@
+/* TEAM */
+
+    Development, Design & SEO: 
+    Contact: 
+    Twitter: 
+    From: Bedfordshire, United Kingdom
+
+    Client Management & Copywriting: 
+    Contact: 
+    Twitter: 
+    From: Bedfordshire, United Kingdom
+
+/* THANKS */
+
+    Front-end Framework: Twitter Bootstrap
+    Site: http://getbootstrap.com/
+
+    UI Library: jQuery
+    Site: http://jquery.com/
+    
+    Scripting Language: PHP
+    Site: http://php.net/
+
+    Icon Creator: iconifier.net/
+    Site: http://iconifier.net/
+
+    Web Server: Apache
+    Site: http://www.apache.org/
+
+    Database: MySQL
+    Site: http://www.mysql.com/
+
+    Working Environment: Ubuntu
+    Site: http://www.ubuntu.com/
+
+    Web Standards: W3C
+    Site: http://www.w3.org/    
+
+    Analytics & Indexer: Google
+    Site: https://www.google.co.uk/
+
+/* SITE */
+    Last update: 2015/03/12
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3
+    Components: jQuery, Twitter Bootstrap
+    Tools: PHP, MySQL, Apache
+    IDE: Sublime Text, FileZilla, Gimp
