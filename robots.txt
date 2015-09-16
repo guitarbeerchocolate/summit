@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /bootstrap/
-Disallow: /css/
-Disallow: /img/
-Disallow: /js/
-Disallow: /jquery/
-Disallow: /html5shiv/
-Disallow: /respond/
